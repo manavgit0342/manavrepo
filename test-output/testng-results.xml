@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7766" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7766" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:31Z">
+      <class name="TestNg.HomeTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="launch" is-config="true" duration-ms="13254" started-at="2019-10-10T05:13:10Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="acc()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="acc" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acc -->
+        <test-method status="PASS" signature="Before_Test()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="Before_Test" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Test -->
+        <test-method status="PASS" signature="Before_Class()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="Before_Class" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Class -->
+        <test-method status="PASS" signature="CheckImages()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="CheckImages" duration-ms="7" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckImages -->
+        <test-method status="PASS" signature="Before_Method()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="Before_Method" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Method -->
+        <test-method status="PASS" signature="After_Method()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="After_Method" is-config="true" duration-ms="1" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Method -->
+        <test-method status="PASS" signature="Before_Method()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="Before_Method" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Method -->
+        <test-method status="PASS" signature="CheckImages1()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="CheckImages1" duration-ms="680" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckImages1 -->
+        <test-method status="PASS" signature="Before_Method()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="Before_Method" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Method -->
+        <test-method status="PASS" signature="After_Method()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="After_Method" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Method -->
+        <test-method status="PASS" signature="CheckTitle()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="CheckTitle" duration-ms="16" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTitle -->
+        <test-method status="PASS" signature="After_Method()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="After_Method" is-config="true" duration-ms="15" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Method -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="LoginTest" duration-ms="6979" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="Before_Method()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="Before_Method" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Method -->
+        <test-method status="PASS" signature="Before_Method()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="Before_Method" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Method -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="HomePage" duration-ms="0" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method status="PASS" signature="After_Method()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="After_Method" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:24Z" finished-at="2019-10-10T05:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Method -->
+        <test-method status="PASS" signature="After_Method()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="After_Method" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:31Z" finished-at="2019-10-10T05:13:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Method -->
+        <test-method status="PASS" signature="After_Class()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="After_Class" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:31Z" finished-at="2019-10-10T05:13:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Class -->
+        <test-method status="PASS" signature="acc1()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="acc1" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:31Z" finished-at="2019-10-10T05:13:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acc1 -->
+        <test-method status="PASS" signature="After_Test()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="After_Test" is-config="true" duration-ms="0" started-at="2019-10-10T05:13:31Z" finished-at="2019-10-10T05:13:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Test -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestNg.HomeTest@19f99ea]" name="close" is-config="true" duration-ms="2156" started-at="2019-10-10T05:13:31Z" finished-at="2019-10-10T05:13:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestNg.HomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
